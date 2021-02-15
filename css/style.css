@@ -622,6 +622,7 @@ h1, h2, h3, h4, h5,
     .img-absolute {
       position: relative;
       top: auto;
+      left: 75px !important;
       -webkit-transform: translateY(0%) translateX(0%);
       -ms-transform: translateY(0%) translateX(0%);
       transform: translateY(0%) translateX(0%);
